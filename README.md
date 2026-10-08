@@ -1,11 +1,11 @@
 <!-- ============ BANNER ============ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Dr.%20Maria%20Aslam&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=PhD%20Computer%20Science%20%7C%20AI%20Educator%20%26%20Researcher&descAlignY=58&descSize=18" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Dr.%20Maria%20Aslam&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=PhD%20Computer%20Science%20%7C%20AI%20Educator%20and%20Researcher&descAlignY=58&descSize=18" />
 </p>
 
 <!-- ============ TYPING LINE ============ -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=22&pause=1000&color=2C9CDB&center=true&vCenter=true&width=600&lines=Assistant+Professor+of+Computing;AI+%26+Machine+Learning+Researcher;PHEC-Listed+AI+Expert;Building+AI+tools+for+education" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=22&pause=1000&color=2C9CDB&center=true&vCenter=true&width=600&lines=Assistant+Professor+of+Computing;AI+and+Machine+Learning+Researcher;PHEC-Listed+AI+Expert;Building+AI+tools+for+education" />
 </p>
 
 <!-- ============ SOCIAL BADGES ============ -->
